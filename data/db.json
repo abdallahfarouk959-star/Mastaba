@@ -1,0 +1,280 @@
+{
+  "users": [
+    {
+      "id": "mamdouh",
+      "name": "ممدوح نصر الله",
+      "isYouTuber": true,
+      "avatarUrl": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=150",
+      "totalPoints": 11,
+      "exactScoresCount": 1,
+      "correctOutcomesCount": 3,
+      "favoriteTeam": "آرسنال"
+    },
+    {
+      "id": "mosaab",
+      "name": "مصعب الغندور",
+      "isYouTuber": true,
+      "avatarUrl": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=150",
+      "totalPoints": 14,
+      "exactScoresCount": 2,
+      "correctOutcomesCount": 2,
+      "favoriteTeam": "ميلان"
+    },
+    {
+      "id": "alkhafif",
+      "name": "أحمد الخفيف",
+      "isYouTuber": true,
+      "avatarUrl": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=150",
+      "totalPoints": 7,
+      "exactScoresCount": 0,
+      "correctOutcomesCount": 3,
+      "favoriteTeam": "مانشستر يونايتد"
+    },
+    {
+      "id": "marwan",
+      "name": "مروان ديربي",
+      "isYouTuber": true,
+      "avatarUrl": "https://images.unsplash.com/photo-1519085360753-af0119f7cbe7?w=150",
+      "totalPoints": 9,
+      "exactScoresCount": 1,
+      "correctOutcomesCount": 2,
+      "favoriteTeam": "برشلونة"
+    },
+    {
+      "id": "user-demo",
+      "name": "عبدالله فاروق (أنت)",
+      "isYouTuber": false,
+      "avatarUrl": "https://images.unsplash.com/photo-1535713875002-d1d0cf377fde?w=150",
+      "totalPoints": 12,
+      "exactScoresCount": 1,
+      "correctOutcomesCount": 3,
+      "favoriteTeam": "الأهلي"
+    }
+  ],
+  "gameweeks": [
+    {
+      "id": "gw-1",
+      "title": "الجولة الأولى - انطلاق الموسم",
+      "status": "completed",
+      "matches": [
+        {
+          "id": "m1",
+          "homeTeam": "ريال مدريد",
+          "awayTeam": "برشلونة",
+          "homeLogo": "🇪🇸",
+          "awayLogo": "🔵🔴",
+          "homeScore": 3,
+          "awayScore": 1,
+          "status": "finished",
+          "date": "2026-06-25",
+          "league": "الدوري الإسباني"
+        },
+        {
+          "id": "m2",
+          "homeTeam": "آرسنال",
+          "awayTeam": "مانشستر يونايتد",
+          "homeLogo": "🔴",
+          "awayLogo": "😈",
+          "homeScore": 2,
+          "awayScore": 2,
+          "status": "finished",
+          "date": "2026-06-26",
+          "league": "الدوري الإنجليزي"
+        },
+        {
+          "id": "m3",
+          "homeTeam": "ميلان",
+          "awayTeam": "إنتر ميلان",
+          "homeLogo": "🔴⚫",
+          "awayLogo": "🔵⚫",
+          "homeScore": 1,
+          "awayScore": 0,
+          "status": "finished",
+          "date": "2026-06-27",
+          "league": "الدوري الإيطالي"
+        }
+      ],
+      "aiCommentary": "ممدوح نصر الله: 'يا جماعة آرسنال كان يستحق يفوز خمسة! الحكم ظلمنا والتعادل ده غير عادل بالمرة!'\n\nمصعب الغندور: 'مباراة ميلان وإنتر كانت درس تكتيكي دفاعي عبقري، توقعت الـ 1-0 بالمسطرة والقلم.'\n\nأحمد الخفيف: 'الخفيف بيقولكم ريال مدريد هيفضل يغفل برشلونة لحد سنة ٢١٠٠، ومبروك لمانشستر يونايتد نقطة التعادل التاريخية بفضل دعوات الوالدين!'"
+    },
+    {
+      "id": "gw-2",
+      "title": "الجولة الثانية - صراع الكبار",
+      "status": "upcoming",
+      "matches": [
+        {
+          "id": "m4",
+          "homeTeam": "مانشستر سيتي",
+          "awayTeam": "آرسنال",
+          "homeLogo": "🩵",
+          "awayLogo": "🔴",
+          "homeScore": null,
+          "awayScore": null,
+          "status": "scheduled",
+          "date": "2026-07-02",
+          "league": "الدوري الإنجليزي"
+        },
+        {
+          "id": "m5",
+          "homeTeam": "بايرن ميونخ",
+          "awayTeam": "ريال مدريد",
+          "homeLogo": "🔴⚪",
+          "awayLogo": "🇪🇸",
+          "homeScore": null,
+          "awayScore": null,
+          "status": "scheduled",
+          "date": "2026-07-03",
+          "league": "دوري أبطال أوروبا"
+        },
+        {
+          "id": "m6",
+          "homeTeam": "برشلونة",
+          "awayTeam": "باريس سان جيرمان",
+          "homeLogo": "🔵🔴",
+          "awayLogo": "🗼",
+          "homeScore": null,
+          "awayScore": null,
+          "status": "scheduled",
+          "date": "2026-07-04",
+          "league": "دوري أبطال أوروبا"
+        }
+      ]
+    }
+  ],
+  "predictions": [
+    {
+      "id": "p1-mamdouh",
+      "userId": "mamdouh",
+      "matchId": "m1",
+      "predictedHomeScore": 1,
+      "predictedAwayScore": 2,
+      "pointsEarned": 0,
+      "calculated": true
+    },
+    {
+      "id": "p2-mamdouh",
+      "userId": "mamdouh",
+      "matchId": "m2",
+      "predictedHomeScore": 3,
+      "predictedAwayScore": 1,
+      "pointsEarned": 2,
+      "calculated": true
+    },
+    {
+      "id": "p3-mamdouh",
+      "userId": "mamdouh",
+      "matchId": "m3",
+      "predictedHomeScore": 2,
+      "predictedAwayScore": 2,
+      "pointsEarned": 0,
+      "calculated": true
+    },
+    {
+      "id": "p1-mosaab",
+      "userId": "mosaab",
+      "matchId": "m1",
+      "predictedHomeScore": 2,
+      "predictedAwayScore": 1,
+      "pointsEarned": 2,
+      "calculated": true
+    },
+    {
+      "id": "p2-mosaab",
+      "userId": "mosaab",
+      "matchId": "m2",
+      "predictedHomeScore": 1,
+      "predictedAwayScore": 1,
+      "pointsEarned": 2,
+      "calculated": true
+    },
+    {
+      "id": "p3-mosaab",
+      "userId": "mosaab",
+      "matchId": "m3",
+      "predictedHomeScore": 1,
+      "predictedAwayScore": 0,
+      "pointsEarned": 5,
+      "calculated": true
+    },
+    {
+      "id": "p1-alkhafif",
+      "userId": "alkhafif",
+      "matchId": "m1",
+      "predictedHomeScore": 3,
+      "predictedAwayScore": 1,
+      "pointsEarned": 5,
+      "calculated": true
+    },
+    {
+      "id": "p2-alkhafif",
+      "userId": "alkhafif",
+      "matchId": "m2",
+      "predictedHomeScore": 0,
+      "predictedAwayScore": 4,
+      "pointsEarned": 0,
+      "calculated": true
+    },
+    {
+      "id": "p3-alkhafif",
+      "userId": "alkhafif",
+      "matchId": "m3",
+      "predictedHomeScore": 1,
+      "predictedAwayScore": 1,
+      "pointsEarned": 0,
+      "calculated": true
+    },
+    {
+      "id": "p1-marwan",
+      "userId": "marwan",
+      "matchId": "m1",
+      "predictedHomeScore": 2,
+      "predictedAwayScore": 2,
+      "pointsEarned": 0,
+      "calculated": true
+    },
+    {
+      "id": "p2-marwan",
+      "userId": "marwan",
+      "matchId": "m2",
+      "predictedHomeScore": 2,
+      "predictedAwayScore": 2,
+      "pointsEarned": 5,
+      "calculated": true
+    },
+    {
+      "id": "p3-marwan",
+      "userId": "marwan",
+      "matchId": "m3",
+      "predictedHomeScore": 0,
+      "predictedAwayScore": 2,
+      "pointsEarned": 0,
+      "calculated": true
+    },
+    {
+      "id": "p1-demo",
+      "userId": "user-demo",
+      "matchId": "m1",
+      "predictedHomeScore": 2,
+      "predictedAwayScore": 0,
+      "pointsEarned": 2,
+      "calculated": true
+    },
+    {
+      "id": "p2-demo",
+      "userId": "user-demo",
+      "matchId": "m2",
+      "predictedHomeScore": 2,
+      "predictedAwayScore": 1,
+      "pointsEarned": 2,
+      "calculated": true
+    },
+    {
+      "id": "p3-demo",
+      "userId": "user-demo",
+      "matchId": "m3",
+      "predictedHomeScore": 1,
+      "predictedAwayScore": 0,
+      "pointsEarned": 5,
+      "calculated": true
+    }
+  ]
+}

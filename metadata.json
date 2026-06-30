@@ -1,0 +1,6 @@
+{
+  "name": "Mastaba League",
+  "description": "A fully interactive football prediction league application for El Mastaba YouTubers and their fans, complete with dynamic leaderboard, prediction submission, gameweek selection, points-engine, and a funny AI commentary assistant imitating the show characters.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
